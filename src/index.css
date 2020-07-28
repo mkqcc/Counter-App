@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: green;
+  background-color: #a71c36;
 }
 
 code {
@@ -23,19 +23,23 @@ code {
 
 .navbar {
   font-size: 60px;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
 }
 
 button {
   background-color: black;
   border: 10px solid;
-  color: white;
-  font-size: 55px;
+  color: antiquewhite;
+  font-size: 60px;
   display: block;
-  width: 310px;
-  padding: 10px;
-  margin: 10px
+  width: 500px;
+  padding: 9px;
+  margin: 15px;
+  box-shadow: 13px 7px 7px black;
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
+  font-family: 'Orbitron', sans-serif;
 }
